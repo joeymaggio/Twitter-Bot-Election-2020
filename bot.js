@@ -2,7 +2,10 @@ console.log('The bot is starting');
 
 var Twit = require('twit');
 var config = require('./config');
-var T = new Twit(config);
+
+
+//twitter keys are placed in a config.js file
+var T = new Twit(config); 
 
 
 
