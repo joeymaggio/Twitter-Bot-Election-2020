@@ -47,6 +47,20 @@ function tweetPhoto() {
       "\"I'm not fat, I just have a sweet hockey body.\"", 
       "\"Follow your dreams, you can reach your goals, I'm living proof. Beefcake! Beefcake!\"", 
       "\"If God didn’t want me to eat chicken in church, then he would have made gluttony a sin.\"",
+      "\"If I could menstruate, I wouldn’t have to deal with idiotic calendars anymore. I’d just be able to count down from my previous cycle. Plus, I’d be more in tune with the moon and the tides.\"",
+      "\"Women are like wolves. If you want one you must trap it. Snare it. Tame it. Feed it.\"",
+      "\"I always wondered how they picked the person to die. I’d be good at picking the person.\"",
+      "\"No, don’t call me a hero. Do you know who the real heroes are? The guys who wake up every morning and go into their normal jobs, and get a distress call from the Commissioner and take off their glasses and change into capes and fly around fighting crime.Those are the real heroes\"",
+      "\"I don’t have a lot of experience with vampires, but I have hunted werewolves. I shot one once, but by the time I got to it, it had turned back into my neighbor’s dog.\"",
+      "\"Now that I own the building I’m looking for new sources of revenue. And a daycare center? Muahahahahahahahaha…Well I guess it’s not an evil idea, it’s just a regular idea, but there’s no good laugh for a regular idea.\"",
+      "\"The eyes are the groin of the head.\"",
+      "\"You couldn’t handle my undivided attention.\"",
+      "\"Would I ever leave this company? Look, I’m all about loyalty. In fact, I feel like part of what I’m being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly, I’m going wherever they value loyalty the most.\"",
+      "\"Why are all these people here? There are too many people on this earth. We need a new plague.\"",
+      "\"I signed up for Second Life about a year ago. Back then, my life was so great that I literally wanted a second one. Absolutely everything was the same…except I could fly.\"",
+      "\"In the wild, there is no healthcare. Healthcare is Oh, I broke my leg! A lion comes and eats you, you’re dead. Well, I’m not dead, I’m the lion, you’re dead!\"",
+
+
 
 
   ];
@@ -69,7 +83,16 @@ function tweetPhoto() {
       "\"I'm crazy, I'm nuts. Just the way my brain works. I'm not normal. I think differently.\"",
       "\"To live is to risk it all, otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.\"",
       "\"Don't pay for cool stuff with your soul. Pay for it with money. You know, like how every store in the world works?\"",
-    
+      "\"Anyone can be confident with a full head of hair. But a confident bald man - there's your diamond in the rough.\"",
+      "\"I don't take on big things. What I do, pretty much, is make the big things small and the small things big.\"",
+      "\"Anything that's for free, people will take. They don't discriminate.\"",
+      "\"When I was living in New York and didn't have a penny to my name, I would walk around the streets and occasionally I would see an alcove or something. And I'd think, that'll be good, that'll be a good spot for me when I'm homeless.\"",
+      "\"I never thought for a second that anything I ever did was going to make someone cringe. That never occurred to me.\"",
+      "\"I'm really only happy when I'm on stage. I just feed off the energy of the audience. That's what I'm all about - people and laughter.\"",
+      "\"I don't like people cleaning my room.\"",
+      "\"I don't really know much about TV and what people want to see. I'm not that well-informed about it.\"",
+      "\"You got any idea what my life would be worth if certain people found out I checked into a laughing academy?\"",
+          
 
   ];
 
@@ -85,6 +108,20 @@ function tweetPhoto() {
       "\"Increasing visibility is a good thing, and it will surely make us more... visible. To do that we should, uh... develop our strategy and strategize our development. Implement solutions and solutionize implementations. Aggressively.\"", 
       "\"Sometimes I’ll start a sentence and I don’t even know where it’s going. I just hope I find it along the way.\"",
       "\"Sometimes the clothes at Gap Kids are too flashy, so I’m forced to go to the American Girl store and order clothes for large colonial dolls.\"",
+      "\"Sexy is what I try to get them to see me as after I win them over with my personality.\"",
+      "\"I don't believe in the Republican party or the Democratic party. I just believe in parties.\"",
+      "\"Beauty is fleeting, but a rent-controlled apartment overlooking the park is forever.\"",
+      "\"Hoes before bros. Uteruses before duderuses. Ovaries before brovaries.\"",
+      "\"I stand behind my decision to avoid salad and other disgusting things.\"",
+      "\"Guys love it when you can show them you’re better than they are at something they love.\"",
+      "\"I'm gonna get drunk and then I'm gonna order a three course meal where each course is made of dessert.\"",
+      "\"I would like to be president some day, so, no, I have not smoked marijuana.\"",
+      "\"You know what? America is awesome. It's so full of hope. And small towns and big cities. And real people and delicious beverages and hot guys.\"",
+      "\"No matter what I do, literally nothing bad can happen to me. I'm like a white male US senator.\"",
+      "\"I mean, that’s why people respect Hillary Clinton so much, because nobody takes a punch like her. She’s the strongest, smartest punching bag in the world.\"",
+      "\"I guess some people object to powerful depictions of awesome ladies.\"",
+
+
       
   ];
 
@@ -103,7 +140,18 @@ function tweetPhoto() {
       "\"For college seniors there should be a week of being allowed to cry. Just break down and cry because you are scared and don't know what's next.\"", 
       "\"Single parent situations drive poverty and often lead to unsupervised kids. Many boys growing up without fathers often feel angry and abandoned. Thus, they seek comfort in all the wrong places.\"", 
       "\"There is little anyone can do with fanatics. Reasoning with them is a fool's errand. Avoiding them is mandatory.\"", 
-
+      "\"It's amazing that the amount of news that happens in the world every day always just exactly fits the newspaper.\"",
+      "\"Make no mistake about why these babies are here - they are here to replace us.\"",
+      "\"People say that money is not the key to happiness, but I always figured if you have enough money, you can have a key made.\"",
+      "\"I'm always shocked when I get an invitation. People are always shocked when they see me at a party.\"",
+      "\"When you hit a groove, it's not you; it's the spirit world. The spirits whisper the ideas in your brain and prod you along. They're the ones that are really happy.\"",
+      "\"You've got the brains and the talent to go as far as you want. And when you do, I'll be right there to borrow money.\"",
+      "\"Just cause you got the monkey off your back doesn't mean the circus has left town.\"",
+      "\"When you're born you get a ticket to the freak show. When you're born in America, you get a front row seat.\"",
+      "\"The reason I talk to myself is that I'm the only one whose answers I accept.\"",
+      "\"Not only do I not know what's going on, I wouldn't know what to do about it if I did.\"",
+      "\"I'm completely in favor of the separation of Church and State. My idea is that these two institutions screw us up enough on their own, so both of them together is certain death.\"",
+      
   ];
 
 
